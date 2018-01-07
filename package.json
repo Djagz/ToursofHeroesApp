@@ -1,0 +1,14 @@
+{
+  "name": "tourofheroesapp",
+  "version": "1.0.0",
+  "description": "\"Angular Tour Of Heroes App\"",
+  "main": "\u001b[D\u001b[D\u001b[C\u001bserver.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dipesh Jagwani",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/cli": "^1.6.3"
+  }
+}
